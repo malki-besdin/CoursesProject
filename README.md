@@ -1,0 +1,1 @@
+First run the server-code found in the CourseAPI folder and then run the file found in the AngularProject folder in the terminal with the command: "ng s" to open at the address that is displayed after running the above command
